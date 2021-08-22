@@ -1,2 +1,2 @@
-from automate.main import Whatsapp
-from automate.main import Email
+from autosel.main import Whatsapp
+from autosel.main import Email
